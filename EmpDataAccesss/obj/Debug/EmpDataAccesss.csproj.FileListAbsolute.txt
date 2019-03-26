@@ -1,0 +1,12 @@
+C:\Users\S\source\repos\EmpService\EmpDataAccesss\bin\Debug\EmpDataAccesss.dll.config
+C:\Users\S\source\repos\EmpService\EmpDataAccesss\bin\Debug\EmpDataAccesss.dll
+C:\Users\S\source\repos\EmpService\EmpDataAccesss\bin\Debug\EmpDataAccesss.pdb
+C:\Users\S\source\repos\EmpService\EmpDataAccesss\bin\Debug\EntityFramework.dll
+C:\Users\S\source\repos\EmpService\EmpDataAccesss\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\S\source\repos\EmpService\EmpDataAccesss\bin\Debug\EntityFramework.xml
+C:\Users\S\source\repos\EmpService\EmpDataAccesss\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\S\source\repos\EmpService\EmpDataAccesss\obj\Debug\EmpDataAccesss.csproj.CoreCompileInputs.cache
+C:\Users\S\source\repos\EmpService\EmpDataAccesss\obj\Debug\EmpDataAccesss.csproj.CopyComplete
+C:\Users\S\source\repos\EmpService\EmpDataAccesss\obj\Debug\EmpDataAccesss.dll
+C:\Users\S\source\repos\EmpService\EmpDataAccesss\obj\Debug\EmpDataAccesss.pdb
+C:\Users\S\source\repos\EmpService\EmpDataAccesss\obj\Debug\EmpDataAccesss.csprojAssemblyReference.cache
